@@ -1,0 +1,2 @@
+# maganReact
+React code client
